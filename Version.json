@@ -1,3 +1,7 @@
 {
-    "version": 1002002000
+    "mainVersion": 2,
+    "featureVersion": 2,
+    "debugVersion": 0,
+    "updateUrl": "https:www.baidu.com",
+    "changeLog": "测试测试测试测试测试测试"
 }
