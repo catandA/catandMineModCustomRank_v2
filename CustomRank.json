@@ -124,7 +124,14 @@
         "rank": "纯情小男娘",
         "nameColor": "§f",
         "bracketColor": "§f",
-        "nick": "悠音"
+        "nick": "悠音",
+        "pet": {
+            "Blue Whale": {
+                "displayName": "月光的小可爱",
+                "nameColor": "§f",
+                "bracketColor": "§e"
+            }
+        }
     },
     "39bd8ab208364d66ad8925a1aaa0dd32": {
         "rank": "wozailowball",
