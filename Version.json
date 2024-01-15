@@ -1,5 +1,5 @@
 {
-    "version": "2.2.2",
-    "updateUrl": "https://github.com/catandA/catandMineMod/releases/tag/2.2.2",
+    "version": "2.2.3",
+    "updateUrl": "https://github.com/catandA/catandMineMod/releases/tag/2.2.3",
     "changeLog": "把长到爆的\"catandMineMod\"换成\"CMM\"\\n一点点优化\\n修复网络环境差的情况下进加载世界卡顿"
 }
