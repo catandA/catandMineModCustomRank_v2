@@ -1,5 +1,5 @@
 {
-    "ServerAddress": "127.0.0.1",
-    "ServerPort": "8989",
+    "ServerAddress": "mc1.mcxl.net",
+    "ServerPort": "11016",
     "ServerEndPoint": "/websocket"
 }
